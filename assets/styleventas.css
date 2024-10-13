@@ -1,0 +1,43 @@
+*{
+   
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+.aceptar{
+    color: green;
+}
+
+.rechazar{
+    color: red;
+}
+#divVentas{
+    display: flex;
+}
+
+
+.inmueble{
+    border: 1px solid black;
+    width: 30%;
+    margin: 2%;
+    padding: 1%;
+}
+
+.imgdevenas{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+button{
+    background-color: rgb(53, 53, 53);
+    color: white;
+    padding: 0.3%;
+
+    
+    border-radius: 10px;
+    
+    
+}
